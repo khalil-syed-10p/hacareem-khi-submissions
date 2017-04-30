@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Final Destination</string>
+
+    <string name="google_maps_key">AIzaSyBCW7cCh8gzCFSIT0YUNg9-Jrfe_4palUE</string>
+
+    <string name="content_desc_marker">Location Marker</string>
+    <string name="content_desc_right_arrow">Right Arrow</string>
+
+    <string name="pick_location">Select Pick up Location</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="drop_off">Drop off</string>
+    <string name="text_loading">Loading…</string>
+    <string name="ride_now">Ride Now</string>
+
+    <string name="default_dropoff_placeholder">Tap to select Dropoff Location</string>
+    <string name="error_address">No Address available</string>
+    <string name="location_title_default">Use my pin location</string>
+    <string name="error_location_required">The Hacareem Final Destination app requires your location to provide you with customized suggestions. Kindly allow application to use location from Seetings</string>
+    <string name="hint_search_locations">Search for locations</string>
+
+    <string name="title_activity_main">PICKUP LOCATION</string>
+    <string name="title_select_location_activity">SELECT LOCATION</string>
+    <string name="api_url">http://192.168.8.100:8080/</string>
+</resources>
